@@ -1,0 +1,9 @@
+{
+  "name": "supermove",
+  "description": "test for apex configuration",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::008764233416:role/supermove_lambda_function",
+  "runtime": "python3.6",
+  "environment": {}
+}
